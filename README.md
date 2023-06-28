@@ -14,7 +14,7 @@ Este es un repositorio dirigido para almacenar y compartir mis practicas de la m
 Link de repositorio personal
 
 ```sh
-https://github.com/NILBERMAYTA/Base-de-datos-1
+https://github.com/NILBERMAYTA
 ```
 
 ## HITO 1
