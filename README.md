@@ -19,15 +19,23 @@ https://github.com/NILBERMAYTA/Base-de-datos-1
 
 ## HITO 1
 ```sh
-https://github.com/NILBERMAYTA/Base-de-datos-1/tree/main/Hito%20I
+https://github.com/NILBERMAYTA/Estructura-de-datos/tree/main/HITO%201
 ```
 ## HITO 2
 ```sh
-https://github.com/NILBERMAYTA/Base-de-datos-1/tree/main/Hito%202
+https://github.com/NILBERMAYTA/Estructura-de-datos/tree/main/HITO%202
 ```
 ## HITO 3
 ```sh
-https://github.com/NILBERMAYTA/Base-de-datos-1/tree/main/Hito3
+https://github.com/NILBERMAYTA/Estructura-de-datos/tree/main/HITO%203
+```
+## HITO 4
+```sh
+https://github.com/NILBERMAYTA/Estructura-de-datos/tree/main/HITO%204
+```
+## HITO 5
+```sh
+https://github.com/NILBERMAYTA/Estructura-de-datos/tree/main/HITO%205
 ```
 
 ## 💻Lenguajes de desarrollo👻
