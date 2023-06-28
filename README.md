@@ -1,5 +1,5 @@
-<h1 align="center">BASE DE DATOS I</h1>
-<h3 align="center">Repositorio personal de Base de datos 1</h3>
+<h1 align="center">ESTRUCTURA DE DATOS</h1>
+<h3 align="center">Repositorio personal de la materia estructura de datos</h3>
 
 ## 😎 INTRODUCCION PERSONAL 😈
 
@@ -7,7 +7,7 @@ Mi nombre es Nilber Mayta Cuno, soy un estudiante de la universidad Franz Tamayo
 
 ## 🙌Descripcion de repositorio🫥
 
-Este es un repositorio dirigido para almacenar y compartir mis practicas de la materia de Base de Datos-I.
+Este es un repositorio dirigido para almacenar y compartir mis practicas de la materia de Estructura de datos.
 
 ## 🚀 Repositorio👾
 
@@ -35,6 +35,8 @@ https://github.com/NILBERMAYTA/Base-de-datos-1/tree/main/Hito3
 - SQL
 - C#
 - C++
+- Java
+- MySQL
 
 
 ## 📖  Lema 🍵
